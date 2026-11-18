@@ -1,0 +1,19 @@
+{
+  "id": "python-general",
+  "title": "Python General",
+  "track": "software-developer",
+  "summary": "Python practice: asynchronous code with asyncio, thread and process pools, and pandas analysis of small medical datasets.",
+  "skills": [
+    "Python",
+    "asyncio",
+    "Concurrency",
+    "Pandas"
+  ],
+  "repo": "https://github.com/VinceVSCode/Python_General",
+  "demo_url": null,
+  "thumbnail": null,
+  "demo_media": null,
+  "run_command": null,
+  "status": "first-attempt",
+  "version": null
+}
